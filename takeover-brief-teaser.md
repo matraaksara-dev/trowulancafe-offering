@@ -13,7 +13,7 @@ Sebuah peluang emas bagi pelaku usaha kuliner, pengusaha warkop modern, atau inv
 
 Gerai ini merupakan **Ex Cafe Rempah, STMJ, dan Kopi Klasik (Full Manual Brew & Traditional Beverage Station)** yang telah memiliki ekosistem pelanggan kuat. Penawaran take over ini menawarkan efisiensi **zero downtime (0 hari jeda renovasi/setup)** dengan nilai investasi sangat kompetitif: **Rp 250.000.000,-**, yang sudah mencakup:
 1. **Sewa Lokasi Lunas 2 Tahun ke Depan** di Jl. Candi Trowulan (mengamankan stabilitas cashflow tanpa beban sewa tahunan awal).
-2. **Seluruh Peralatan Manual Brew Bar, Station Rempah/STMJ & Dapur Lengkap** (Coffee Grinder Presisi, Set Manual Brew V60/Tubruk/Vietnam Drip/Syphon, Station Kompor Rebusan Rempah & Penghangat STMJ, Commercial Chiller & Freezer, Kompor & Kitchen Ware, POS System).
+2. **Manual Brew Bar, Station Rempah/STMJ & Include Full Set Kitchen Komplit** (Coffee Grinder Presisi, Set Manual Brew V60/Tubruk/Vietnam Drip/Syphon, Station Kompor Rebusan Rempah & Penghangat STMJ, Commercial Chiller & Deep Freezer, Kompor Komersial & Cookware/Kitchenware, POS System).
 3. **Fasilitas Tempat & Kanopi Outdoor:** Ruang indoor lega dengan sirkulasi udara alami yang segar, dipadukan dengan **Kanopi kokoh di bagian depan dan Mini Kanopi di sisi kiri bangunan** yang melindungi area nongkrong outdoor dari panas dan hujan (kapasitas 35–45 kursi).
 4. **Basis Pelanggan Loyal (Existing Customer Base)** dengan histori transaksi riil mencapai **2.330+ transaksi/bulan**.
 5. **Ekosistem Bisnis Premium 24 Jam** yang dikelilingi oleh fasilitas hiburan malam (KTV/Karaoke), perhotelan, area komersial aktif, dan pasar bahan baku segar Blimbing (1,5 km).
@@ -115,7 +115,7 @@ Teaser HTML dirancang dengan tema visual **Modern Nusantara Heritage & Deep Bota
 - **Sub-headline:** `All-in Rp 250 Juta: Dapatkan Sewa Lunas 2 Tahun di Jl. Candi Trowulan, Seluruh Peralatan Bar Manual Brew, Station Rempah/STMJ, Dapur Komplit, serta Fasilitas Outdoor Berkanopi Depan & Mini Kanopi Kiri.`
 - **Key Value Pills:**
   - 🔑 **Sewa 2 Tahun Lunas** (Zero Rental Burden)
-  - ☕ **Station Manual Brew, STMJ & Rempah Komplit** (Turnkey Setup)
+  - ☕ **Manual Brew, STMJ & Include Full Set Kitchen** (Turnkey Setup Komplit)
   - 🏠 **Kanopi Depan & Mini Kanopi Sisi Kiri** (Area Outdoor Teduh & Luas)
   - 📈 **Potensi Omzet Rp 30 – 35 Juta/bln** (Margin Tebal 60-70%)
   - 🌙 **Episentrum KTV & Hotel 24 Jam** (Trafik Malam Nonstop)
@@ -128,7 +128,7 @@ Teaser HTML dirancang dengan tema visual **Modern Nusantara Heritage & Deep Bota
 
 ### Section 4: 4 Pilar Keunggulan Take Over
 1. **Sewa 2 Tahun Lunas:** Tanpa beban sewa bulanan/tahunan selama 24 bulan di lokasi strategis.
-2. **Peralatan Bar Manual Brew & Dapur Lengkap:** Grinder presisi, station racikan rempah, chiller, freezer, cooking set, POS kasir.
+2. **Manual Brew, STMJ & Include Full Set Kitchen:** Grinder presisi, station racikan rempah, chiller showcase, deep freezer, kompor gas komersial, set piring/mangkok/cutlery lengkap, POS kasir.
 3. **2.330+ Transaksi Riil Bulanan:** Sudah memiliki basis pelanggan setia yang menyukai suasana nongkrong malam.
 4. **Simpel & Bebas Perawatan:** Tanpa mesin rumit, area outdoor terlindung kanopi depan dan mini kanopi kiri yang nyaman 24 jam.
 
@@ -144,8 +144,8 @@ Teaser HTML dirancang dengan tema visual **Modern Nusantara Heritage & Deep Bota
 - Radar Interaktif Radius Komersial.
 
 ### Section 7: Daftar Inventaris & Peralatan (Tabbed Navigation)
-1. **Bar Manual Brew & Station Rempah:** Grinder kopi presisi, set manual brew (V60, Tubruk, Vietnam Drip, Syphon), kompor racikan rempah & warmer STMJ, glassware, cangkir keramik, bar counter.
-2. **Kitchen & Commercial Storage:** Commercial showcase chiller, deep freezer, kompor komersial, piring/mangkok/sendok, blender, stainless sink & greasetrap.
+1. **Bar Manual Brew & Station Rempah/STMJ:** Grinder kopi presisi, set manual brew (V60, Tubruk, Vietnam Drip, Syphon), kompor racikan rempah & warmer STMJ, glassware, cangkir keramik, bar counter.
+2. **Full Set Kitchen & Commercial Storage:** Commercial showcase chiller, deep freezer, kompor komersial, set piring/mangkok/sendok garpu, blender, stainless sink & greasetrap.
 3. **Furniture, Kanopi & Ambience:** Set meja kursi 35-45 kursi (indoor & outdoor), **Instalasi Kanopi Depan & Mini Kanopi Sisi Kiri Bangunan**, lampu warm ambience, sound system, Wi-Fi router, CCTV.
 4. **Sistem & Hak Sewa:** Sewa tempat lunas 2 tahun di Jl. Candi Trowulan, Tablet POS kasir pintar + printer thermal, SOP operasional digital.
 
